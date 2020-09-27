@@ -11,3 +11,4 @@ Implementation of a controller for the breakout game. That is, wrote a function 
 **Increasing Speed**
 ![alt_Text](https://github.com/TDeepanshPandey/Breakout_Game/blob/master/100%20games%20run%20with%20increaseing%20speed.png)
 
+.
